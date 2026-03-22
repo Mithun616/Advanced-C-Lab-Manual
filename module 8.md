@@ -1,4 +1,4 @@
-## EXP NO:6 C  Program PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+## EXP NO:2 C  Program PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
 ### Aim:
 To write a C Program print the lowercase English word corresponding to the number
 ### Algorithm:
